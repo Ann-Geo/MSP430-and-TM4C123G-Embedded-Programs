@@ -1,5 +1,5 @@
 ### MSP430-and-TM4C123G-Embedded-Programs
-MSP430 and TM4C123G microcontroller based programs
+MSP430 and TM4C123G microcontroller based programs - Embedded Systems labs
 
 • Lab 1:-\
 Aim: Program the following requirements on TI's MSP430 Launchpad with the help of its on-board peripherals.\
